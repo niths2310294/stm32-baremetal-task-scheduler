@@ -1,0 +1,14 @@
+Debug/
+Release/
+.settings/
+EWARM/
+*.launch
+*.list
+*.map
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.mk
+*.log
